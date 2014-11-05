@@ -1,35 +1,52 @@
 /* Set Your Own Margin & Padding */
 
 
+
+
 h1 {font-family: 'Quicksand', sans-serif;
 	font-size: 48px;
-	font-weight: 700;
-	margin: 3px;
+	font-weight: 400;
+	margin: 10px;
+
 }
 h2 {font-family: 'Quicksand', sans-serif;
 	font-size: 32px;
 	font-weight: 400;
-	margin: 3px;
+	margin: 10px;
 }
 
  h3 {font-family: 'Quicksand', sans-serif;
 	font-size: 20px;
 	font-weight: 400;
-	margin: 3px;
+	margin: 10px;
 	color: #C9313D;
 }
 
 h4 {font-family: 'Quicksand', sans-serif;
-	font-size: 20px;
-	font-weight: 400;
-	margin: 3px;
+	font-size: 15px;
+	font-weight: 700;
+	margin: 10px;
 	color: #F9722E;
+}
+
+h5 {font-family: 'Quicksand', sans-serif;
+	font-size: 15px;
+	font-weight: 700;
+	margin: 10px;
+	color: #CDD452;
 }
 
 
   p {font-family: 'Quicksand', sans-serif;
-	margin: 3px;
+  	font-size: 15px;
+	margin: 10px;
 }
+ 
+ em {font-family: 'Quicksand', sans-serif;
+  	font-size: 15px;
+	margin: 10px;
+}
+
 
 /* Layout for Style Tile*/
 section {
