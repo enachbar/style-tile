@@ -7,8 +7,14 @@ background: url("../img/retina_wood.png");
 
 h1 {font-family: 'Quicksand', sans-serif;
 	font-size: 48px;
-	font-weight: 400;
-	margin: 10px;
+	font-weight: 300;
+	color: white;
+    position: relative;
+    top: 60px;
+    padding:50px 300px;
+	background: url("../img/dark_wall.png");
+	margin-left: -600px;
+  	margin-right: -600px;
 
 }
 h2 {font-family: 'Quicksand', sans-serif;
@@ -58,6 +64,12 @@ a {text-decoration: none;
 a:hover {text-decoration: none;
 	font-weight: 700;
 	color: #8FD455;
+
+}
+
+a:active {text-decoration: none;
+	font-weight: 700;
+	color: #F9722E;
 
 }
 
