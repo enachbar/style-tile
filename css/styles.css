@@ -95,6 +95,27 @@ section {
 }
 
 
+/*colors and textures*/
+.color-1{
+	background-color: #C9313D;
+}
+.color-2{
+	background-color: #F9722E;
+}
+.color-3{
+	background-color: #8FD455;
+}
+.pattern-1{
+	background:url("../img/dark_wall.png");
+}
+.pattern-2{
+	background:url("../img/extra_clean_paper.png");
+}
+.pattern-3 {
+	background:url("../img/extra_clean_paper.png");
+}
+
+
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
