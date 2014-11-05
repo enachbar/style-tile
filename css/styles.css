@@ -11,6 +11,7 @@ h1 {font-family: 'Quicksand', sans-serif;
 	font-size: 48px;
 	font-weight: 300;
 	color: white;
+	text-shadow: 4px 4px 4px #000000;
     position: relative;
     top: 60px;
     padding:50px 300px;
@@ -44,6 +45,8 @@ h4 {font-family: 'Quicksand', sans-serif;
 }
 
 h5 {font-family: 'Quicksand', sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 1px;
 	font-size: 15px;
 	font-weight: 700;
 	margin: 10px;
