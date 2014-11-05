@@ -1,6 +1,8 @@
 /* Set Your Own Margin & Padding */
 
-
+body {
+background: url("../img/retina_wood.png");
+}
 
 
 h1 {font-family: 'Quicksand', sans-serif;
